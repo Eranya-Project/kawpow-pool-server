@@ -1,12 +1,17 @@
 {
-	"name": "Raven",
-	"symbol": "RVN",
-	"algorithm": "x16rv2",
-	"coinbase": "Crypto Pools by AoD Technologies LLC - https://cryptopools.aod-tech.com",
-	"peerMagic": "5241564e",
-	"peerMagicTestnet": "52564e54",
-	"explorer": {
-		"txURL": "https://ravencoin.network/tx/",
-		"blockURL": "https://ravencoin.network/block/"
-	}
+    "name": "ravencoin",    
+    "symbol": "RVN",    
+    "algorithm": "kawpow",
+    
+    "wallet": "https://ravencoin.org/wallet/",
+
+    "explorer":"https://ravencoin.network",
+    
+    "explorerGetBlockJSON": "https://ravencoin.network/api/block/",
+    "explorerGetBlock": "https://ravencoin.network/block/",
+    "explorerGetTX": "https://ravencoin.network/tx/",
+    
+    "blockTime": 60,
+    "blockChange": 1
+    
 }
