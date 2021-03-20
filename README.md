@@ -1,6 +1,6 @@
-
-Kawpow algo added and tested in ravencoin successfully 
-Will update soon ...
+##############################################################
+### Kawpow algo added and tested in ravencoin successfully ###
+##############################################################
 
 
 # Cryptocurrency Pool Server <img src="https://cryptopools.aod-tech.com/static/logo.png" width="64" alt="Cryptocurrency Pool Server Logo" valign="middle">
