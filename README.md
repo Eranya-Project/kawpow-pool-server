@@ -1,3 +1,8 @@
+
+Kawpow algo added and tested in ravencoin successfully 
+Will update soon ...
+
+
 # Cryptocurrency Pool Server <img src="https://cryptopools.aod-tech.com/static/logo.png" width="64" alt="Cryptocurrency Pool Server Logo" valign="middle">
 
 [![NPM](https://nodei.co/npm/cryptocurrency-pool-server.png?downloads=true&stars=true)](https://nodei.co/npm/cryptocurrency-pool-server/)
@@ -129,8 +134,8 @@ a good pool operator. For starters be sure to read:
 Clone the repository and run `npm install` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/AoD-Technologies/cryptocurrency-pool-server.git
-cd cryptocurrency-pool-server
+git clone https://github.com/aymoon05/kawpow-pool-server.git
+cd kawpow-pool-server
 npm install
 ```
 
@@ -213,7 +218,7 @@ Explanation for each field:
         "host": "0.0.0.0",
         "port": 80,
         /* Used for displaying stratum connection data on the Getting Started page. */
-        "stratumHost": "cryppit.com",
+        "stratumHost": "127.0.0.1",
         "stats": {
             /* Gather stats to broadcast to page viewers and store in redis for historical stats
                every this many seconds. */
